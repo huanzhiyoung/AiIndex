@@ -22,9 +22,9 @@
 
 * ChatGPT 镜像站点
 
-   * [FORCHANGE AI EDU](https://chat.forchange.cn/)
+   * [FORCHANGE AI EDU](https://chat.forchange.cn/)(已经失效)
 
-   * [Free GPT（需要翻墙）](https://freegpt.one/)(已经失效)
+   * [Free GPT（需要翻墙）](https://freegpt.one/)(对话没有回应？)
 
    * [BAI Chat（需要翻墙）](https://chatbot.theb.ai/)
 
