@@ -24,7 +24,7 @@
 
    * [FORCHANGE AI EDU](https://chat.forchange.cn/)
 
-   * [Free GPT（需要翻墙）](https://freegpt.one/)
+   * [Free GPT（需要翻墙）](https://freegpt.one/)(已经失效)
 
    * [BAI Chat（需要翻墙）](https://chatbot.theb.ai/)
 
